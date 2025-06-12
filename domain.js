@@ -1,2 +1,4 @@
-export default class Character {
+export class Character {
 }
+
+export default Character;
